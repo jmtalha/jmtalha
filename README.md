@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @ MOHAMMED THALHA  Computer Science Engineering Student 
-- 👀 I’m interested in ...Web development, software development and also in Artificial Intelligence
-- 🌱 I’m currently learning ...Python, HTML, CSS, Java Script and so on...... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...txt message me in my Email address jmthalha2002@gmail.com
+- 👋 Hi, I’m @jmtalha, Computer Science Engineering Student
+- 👀 I’m interested in ...
+      Web development
+      Software development
+      Artificial Intelligence
+      and more
+- 🌱 I’m currently learning ...
+      Python
+      Web Designing 
+- 📫 How to reach me ...Mail Me : 
+-     jmthalha2002@gmail.com
 
 <!---
 jmtalha/jmtalha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
